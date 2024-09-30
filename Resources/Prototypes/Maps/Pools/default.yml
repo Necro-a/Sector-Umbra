@@ -6,14 +6,19 @@
   - Bagel
   - Box
   - Cluster
+  - Cog
   - Core
   - Fland
   - Marathon
   - Meta
   - Oasis
   - Omega
-  - Origin
   - Saltern
   - Packed
+<<<<<<< HEAD
   #- Reach
   #- Train
+=======
+  - Reach
+  - Train
+>>>>>>> af09e9315514441bd8e621c1c5f321d40e944aa8
